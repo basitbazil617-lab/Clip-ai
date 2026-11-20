@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GTA VI Clip AI</string>
+    <string name="brand_title">GTA VI CLIP AI</string>
+    <string name="brand_creator">MADE BY SAHIB</string>
+    <string name="firebase_ai_notice">AI features require Firebase AI Logic. Currently using clearly labeled sample AI responses.</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_clip_maker">Clip AI</string>
+    <string name="nav_editor">Editor</string>
+    <string name="nav_seo">SEO Pro</string>
+</resources>

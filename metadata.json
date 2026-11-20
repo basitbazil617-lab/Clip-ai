@@ -1,0 +1,6 @@
+{
+  "name": "GTA VI Clip AI",
+  "description": "Neon AI video clipping, 9:16 Shorts editing, and YouTube SEO studio made by Sahib.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
